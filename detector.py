@@ -18,7 +18,7 @@ FIXED_FRAMES = 128
 MFCC_COUNT = 40
 
 SVM_PATH = "svm/svm_mfcc.pkl"
-KERAS_PATH = "cnn/cnn_mel_specto.keras"
+KERAS_PATH = "cnn/deepfake_audio_model.keras"
 GMM_REAL_PATH = "gmm/gmm_real.pkl"
 GMM_FAKE_PATH = "gmm/gmm_fake.pkl"
 
