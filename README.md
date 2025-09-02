@@ -40,8 +40,8 @@ to run the code : streamlit run detector.py
 - MFCC, CQCC, Spectrograms  
 
 
-deployed site:
-https://deepfakeaudiodetection-7fswimx9tercmlpvlzdr2d.streamlit.app/
+
+
 
 
 demo clip:
